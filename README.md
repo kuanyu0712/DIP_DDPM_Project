@@ -11,7 +11,7 @@ This project combines Deep Image Prior (DIP) and Denoising Diffusion Probabilist
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/DIP_DDPM_Project.git
+   git clone https://github.com/kuanyu0712/DIP_DDPM_Project.git
    cd DIP_DDPM_Project
 ### Running the Code
 python /main.py
